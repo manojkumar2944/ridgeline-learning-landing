@@ -1,0 +1,6 @@
+.shell { min-height: 100vh; background: #F8F5EE; color: #142C40; }
+.header { padding: 16px 6%; background: #fff; border-bottom: 1px solid #dbe7e4; }
+.main { max-width: 1180px; margin: 40px auto; padding: 32px 6%; }
+.eyebrow { color: #197C86; font-size: .82rem; font-weight: 700; letter-spacing: .12em; }
+.main button { padding: 12px 20px; border: 0; border-radius: 12px; color: #fff; background: #197C86; cursor: pointer; }
+.main button:focus-visible { outline: 3px solid #F2B865; outline-offset: 3px; }
